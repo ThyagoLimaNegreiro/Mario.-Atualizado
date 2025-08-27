@@ -34,4 +34,5 @@ const loop = setInterval(() => {
  }, 10);
 
 document.addEventListener('keydown', pulo);
-window.alert("clique aqui com o mause por conta de um bug que esta acontecendo com a tecla spaço")
+window.alert("sobrevia o máximo que você puder obs:ocorre um bug se você demorar a começar a partida:(")
+
